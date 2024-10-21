@@ -213,6 +213,26 @@
 		dailyValueEnergyKcal: 2000, //this is for the uk version
 		dailyValueProtein: 50, //this is for the uk version
 		dailyValueSalt: 6, //this is for the uk version
+		dailyValueChloride: 3000,
+		dailyValueChromium: 25,
+		dailyValueCopper: 1,
+		dailyValueFolate: 400,
+		dailyValueIodine: 150, //mcg
+		dailyValueMagnesium: 300, //mg
+        dailyValueManganese: 2, //mg
+		dailyValueMolybdenum: 45, //mcg
+		dailyValueNiacin: 16, //mg vit B3
+		dailyValuePantothenicAcid: 5, //mg Vit B5
+		dailyValuePhosphorus: 700, //mg
+		dailyValueRiboflavin: 1.3, //mg
+        dailyValueSelenium: 55, //mcg
+		dailyValueThiamin: 1.2, //mg
+		dailyValueVitaminB12: 2.4, //mcg
+		dailyValueVitaminB6: 1.3, //mg
+		dailyValueVitaminE: 15, //mg
+		dailyValueVitaminK: 120, //mcg
+		dailyValueWater: 3700, //mL
+		dailyValueZinc: 11, //mg
 
 		//these values can be change to hide some nutrition values
 		showCalories: true,
@@ -239,6 +259,26 @@
 		showIron: true,
 		showCaffeine: true, //this is for the 2018 version
 		showServingWeightGrams: true,
+		showChloride: true,
+		showChromium: true,
+		showCopper: true,
+		showFolate: true,
+		showIodine: true, //this is for the 2018 version
+		showMagnesium: true, //this is for the 2018 version
+		showManganese: true, //this is for the 2018 version
+		showMolybdenum: true, //this is for the 2018 version
+		showNiacin: true, 
+		showPantothenicAcid: true, //this is for the 2018 version
+		showPhosphorus: true, //this is for the 2018 version
+		showRiboflavin: true, //this is for the 2018 version
+		showSelenium: true, //this is for the 2018 version
+		showThiamin: true, //this is for the 2018 version
+		showVitaminB12: true, //this is for the 2018 version
+		showVitaminB6: true, //this is for the 2018 version
+		showVitaminE: true, //this is for the 2018 version
+		showVitaminK: true, //this is for the 2018 version
+		showWater: true, //this is for the 2018 version
+		showZinc: true, //this is for the 2018 version
 
 		//these values can be change to hide some nutrition daily values
 			//take note that the setting 'hidePercentDailyValues' override these values
@@ -277,7 +317,26 @@
 		//see https://github.com/nutritionix/nutrition-label/issues/93 and then https://github.com/nutritionix/nutrition-label/issues/104
 		indentSugarAndRemoveBoldStyleFor2018Label: true,
 		boldCaffeine: true, //this is for the 2018 version
-
+		boldChloride: true, //this is for the 2018 version
+		boldChromium: true, //this is for the 2018 version
+		boldCopper: true, //this is for the 2018 version
+		boldFolate: true, //this is for the 2018 version
+		boldIodine: true, //this is for the 2018 version
+		boldMagnesium: true, //this is for the 2018 version
+		boldManganese: true, //this is for the 2018 version
+		boldMolybdenum: true, //this is for the 2018 version
+		boldNiacin: true, //this is for the 2018 version
+		boldPantothenicAcid: true, //this is for the 2018 version
+		boldPhosphorus: true, //this is for the 2018 version
+		boldRiboflavin: true, //this is for the 2018 version
+		boldSelenium: true, //this is for the 2018 version
+		boldThiamin: true, //this is for the 2018 version
+		boldVitaminB12: true, //this is for the 2018 version
+		boldVitaminB6: true, //this is for the 2018 version
+		boldVitaminE: true, //this is for the 2018 version
+		boldVitaminK: true, //this is for the 2018 version
+		boldWater: true, //this is for the 2018 version
+		boldZinc: true, //this is for the 2018 version
 		//to show the disclaimer text or not
 		showDisclaimer: false,
 		//the height in px of the disclaimer div
@@ -313,6 +372,27 @@
 		naCalcium: false, //this is for the 2018 version
 		naIron: false,
 		naCaffeine: false, //this is for the 2018 version
+		naChloride: true,
+		naChromium: true,
+		naCopper: true,
+		naFolate: true,
+		naIodine: true,
+        naMagnesium: true,
+        naManganese: true,
+        naMolybdenum: true,
+        naNiacin: true,
+		naPantothenicAcid: true,
+        naPhosphorus: true,
+        naRiboflavin: true,
+        naSelenium: true,
+        naThiamin: true,
+		naVitaminB12: true,
+        naVitaminB6: true,
+        naVitaminE: true,
+        naVitaminK: true,
+        naWater: true,
+		naZinc: true,
+	
 
 		//these are the default values for the nutrition info
 		valueServingWeightGrams: 0,
@@ -340,6 +420,26 @@
 		valueCalcium: 0, //this is for the 2018 version
 		valueIron: 0,
 		valueCaffeine: 0, //this is for the 2018 version
+		valueChloride: 0,
+		valueChromium: 0,
+		valueCopper: 0,
+		valueFolate: 0,
+		valueIodine: 0,
+        valueMagnesium: 0,
+        valueManganese: 0,
+        valueMolybdenum: 0,
+        valueNiacin: 0,
+		valuePantothenicAcid: 0,
+        valuePhosphorus: 0,
+        valueRiboflavin: 0,
+        valueSelenium: 0,
+        valueThiamin: 0,
+		valueVitaminB12: 0,
+        valueVitaminB6: 0,
+        valueVitaminE: 0,
+        valueVitaminK: 0,
+        valueWater: 0,
+		valueZinc: 0,
 
 		//customizable units for the values
 		unitCalories: '',
@@ -376,6 +476,26 @@
 		unitSalt: 'g', //this is for the uk version
 		unitGramOrMlForThePer100Part: 'g', //this is for the uk version
 		unitCaffeine: 'mg', //this is for the 2018 version
+		unitChloride: 'mg', //this is for the 2018 version
+		unitChromium: 'mcg', //this is for the 2018 version
+		unitCopper: 'mg', //this is for the 2018 version
+		unitFolate: 'mcg', //this is for the 2018 version
+		unitIodine: 'mcg', //this is for the 2018 version
+		unitMagnesium: 'mg', //this is for the 2018 version
+		unitManganese: 'mg', //this is for the 2018 version
+		unitMolybdenum: 'mg', //this is for the 2018 version
+		unitNiacin: 'mg', //this is for the 2018 version
+		unitPantothenicAcid: 'mg', //this is for the 2018 version
+		unitPhosphorus: 'mg', //this is for the 2018 version
+		unitRiboflavin: 'mg', //this is for the 2018 version
+		unitSelenium: 'mcg', //this is for the 2018 version
+		unitThiamin: 'mg', //this is for the 2018 version
+		unitVitaminB12: 'mcg', //this is for the 2018 version
+		unitVitaminB6: 'mg', //this is for the 2018 version
+		unitVitaminE: 'mg', //this is for the 2018 version
+		unitVitaminK: 'mcg', //this is for the 2018 version
+		unitWater: 'mL', //this is for the 2018 version
+		unitZinc: 'mg', //this is for the 2018 version
 
 		//these are the values for the optional calorie diet
 		valueCol1CalorieDiet: 2000,
@@ -444,7 +564,27 @@
 		textCalorieDietHtmlLegacyLessThan: 'Less than',
 		textCalorieDietHtmlLegacyDietary: 'Dietary',
 		textCaffeine: 'Caffeine', //this is for the 2018 version
-
+		textChloride: 'Chloride', //this is for the 2018 version
+		textChromium: 'Chromium', //this is for the 2018 version
+		textCopper: 'Copper', //this is for the 2018 version
+		textFolate: 'Folate', //this is for the 2018 version
+		textIodine: 'Iodine', //this is for the 2018 version
+		textMagnesium: 'Magnesium',
+		textManganese: 'Manganese',
+		textMolybdenum: 'Molybdenum', //this is for the 2018 version
+		textNiacin: 'Niacin', //this is for the 2018 version
+		textPantothenicAcid: 'Pantothenic Acid', //this is for the 2018 version
+		textPhosphorus: 'Phosphorus', //this is for the 2018 version
+		textRiboflavin: 'Riboflavin', //this is for the 2018 version
+		textSelenium: 'Selenium', //this is for the 2018 version
+		textThiamin: 'Thiamin', //this is for the 2018 version
+		textVitaminB12: 'Vitamin B12', //this is for the 2018 version
+		textVitaminB6: 'Vitamin B6', //this is for the 2018 version
+		textVitaminE: 'Vitamin E', //this is for the 2018 version
+		textVitaminK: 'Vitamin K', //this is for the 2018 version
+		textWater: 'Water', //this is for the 2018 version
+		textZinc: 'Zinc', //this is for the 2018 version
+		
 		//if the showLegacyVersion is true, the system will show the legacy version
 		//if both the showLegacyVersion and showUKVersion are false, the system will show the 2018 version
 		//if both the showLegacyVersion is false and showUKVersion is true, the system will show the uk version
@@ -534,7 +674,27 @@
 			'valueVitaminA',
 			'valueVitaminC',
 			'valueVitaminD',
-			'width'
+			'width',
+			'valueChloride',
+			'valueChromium',
+			'valueCopper',
+			'valueFolate',
+			'valueIodine',
+            'valueMagnesium',
+            'valueManganese',
+            'valueMolybdenum',
+            'valueNiacin',
+			'valuePantothenicAcid',
+            'valuePhosphorus',
+            'valueRiboflavin',
+            'valueSelenium',
+            'valueThiamin',
+			'valueVitaminB12',
+            'valueVitaminB6',
+            'valueVitaminE',
+            'valueVitaminK',
+            'valueWater',
+			'valueZinc',
 		];
 
 		$.each(settings, function(index, value) {
@@ -580,7 +740,27 @@
 			'valueTransFat',
 			'valueVitaminA',
 			'valueVitaminC',
-			'valueVitaminD'
+			'valueVitaminD',
+			'valueChloride',
+			'valueChromium',
+			'valueCopper',
+			'valueFolate',
+			'valueIodine',
+            'valueMagnesium',
+            'valueManganese',
+            'valueMolybdenum',
+            'valueNiacin',
+			'valuePantothenicAcid',
+            'valuePhosphorus',
+            'valueRiboflavin',
+            'valueSelenium',
+            'valueThiamin',
+			'valueVitaminB12',
+            'valueVitaminB6',
+            'valueVitaminE',
+            'valueVitaminK',
+            'valueWater',
+			'valueZinc',
 		];
 
 		$.each(settings, function(index, value) {
@@ -1125,6 +1305,13 @@
 		return toRound;
 	}
 
+	function roundGeneric(toRound, decimalPlace) {
+		toRound = roundToNearestNum(toRound, 1);
+        if (toRound > 0) {
+            toRound = roundLoDash(toRound, decimalPlace);
+        }
+		return toRound;
+	}
 
 	//Calories and Calories from Fat rounding rule
 	function roundCaloriesRule(toRound) {
@@ -2571,6 +2758,27 @@
 				$this.settings.showCalcium = $this.settings.naCalcium ? false : $this.settings.showCalcium;
 				$this.settings.showIron = $this.settings.naIron ? false : $this.settings.showIron;
 				$this.settings.showCaffeine = $this.settings.naCaffeine ? false : $this.settings.showCaffeine;
+				$this.settings.showChloride = $this.settings.naChloride ? false : $this.settings.showChloride;
+				$this.settings.showChromium = $this.settings.naChromium ? false : $this.settings.showChromium;
+				$this.settings.showCopper = $this.settings.naCopper ? false : $this.settings.showCopper;
+				$this.settings.showFolate = $this.settings.naFolate ? false : $this.settings.showFolate;
+				$this.settings.showIodine = $this.settings.naIodine? false : $this.settings.showIodine;
+				$this.settings.showMagnesium = $this.settings.naMagnesium? false : $this.settings.showMagnesium;
+				$this.settings.showManganese = $this.settings.naManganese? false : $this.settings.showManganese;
+				$this.settings.showMolybdenum = $this.settings.naMolybdenum? false: $this.settings.showMolybdenum;
+				$this.settings.showNiacin = $this.settings.naNiacin? false : $this.settings.showNiacin;
+				$this.settings.showPantothenicAcid = $this.settings.naPantothenicAcid? false : $this.settings.showPantothenicAcid;
+				$this.settings.showPhosphorus = $this.settings.naPhosphorus? false : $this.settings.showPhosphorus;
+				$this.settings.showRiboflavin = $this. settings.naRiboflavin? false : $this.settings.showRiboflavin;
+				$this.settings.showSelenium = $this.settings.naSelenium? false : $this.settings.showSelenium;
+				$this.settings.showThiamin = $this.settings.naThiamin? false : $this.settings.showThiamin;
+				$this.settings.showVitaminB12 = $this.settings.naVitaminB12? false : $this.settings.showVitaminB12;
+				$this.settings.showVitaminB6 = $this.settings.naVitaminB6? false : $this.settings.showVitaminB6;
+				$this.settings.showVitaminE = $this.settings.naVitaminE? false : $this.settings.showVitaminE;
+				$this.settings.showVitaminK = $this.settings.naVitaminK? false : $this.settings.showVitaminK;
+				$this.settings.showWater = $this.settings.naWater? false : $this.settings.showWater;
+				$this.settings.showZinc = $this.settings.naZinc? false : $this.settings.showZinc;
+
 			}
 
 			if ($this.settings.hidePercentDailyValues) {
@@ -2863,6 +3071,292 @@
 					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
 				}
 
+				if ($this.settings.showChloride) {
+					let labelClassChloride = 'nf-highlight';
+					if (!$this.settings.boldChloride) {
+						labelClassChloride = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueChloride', 'unitChloride', 'naChloride', 'textChloride', 'chlorideContent', '',         false,            'roundChloride',   '',                   labelClassChloride, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+
+				if ($this.settings.showChromium) {
+					let labelClassChromium = 'nf-highlight';
+					if (!$this.settings.boldChromium) {
+						labelClassChromium = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueChromium', 'unitChromium', 'naChromium', 'textChromium', 'chromiumContent', '',         false,            'roundChromium',   '',                   labelClassChromium, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				
+				if ($this.settings.showCopper) {
+					let labelClassCopper = 'nf-highlight';
+					if (!$this.settings.boldCopper) {
+						labelClassCopper = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueCopper', 'unitCopper', 'naCopper', 'textCopper', 'copperContent', '',         false,            'roundCopper',   '',                   labelClassCopper, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+
+				if ($this.settings.showFolate) {
+					let labelClassFolate = 'nf-highlight';
+					if (!$this.settings.boldFolate) {
+						labelClassFolate = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueFolate', 'unitFolate', 'naFolate', 'textFolate', 'folateContent', '',         false,            'roundFolate',   '',                   labelClassFolate, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				
+				if ($this.settings.showIodine) {
+					let labelClassIodine = 'nf-highlight';
+                    if (!$this.settings.boldIodine) {
+                        labelClassIodine = '';
+                    }
+					
+                    nutritionLabel += generateAttributeHtml2018Version(
+                        //$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+                        $this.settings, 'valueIodine', 'unitIodine', 'naIodine', 'textIodine', 'iodineContent', '',         false,            'roundIIodine', '',                    labelClassIodine, '',      ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+                    nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+                }
+
+				
+				if ($this.settings.showMagnesium) {
+					let labelClassMagnesium = 'nf-highlight';
+					if (!$this.settings.boldMagnesium) {
+						labelClassMagnesium = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueMagnesium', 'unitMagnesium', 'naMagnesium', 'textMagnesium', 'magnesiumContent', '',         false,            'roundMagnesium',   '',                   labelClassMagnesium, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showMagnesium) {
+					let labelClassManganese = 'nf-highlight';
+					if (!$this.settings.boldManganese) {
+						labelClassManganese = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueManganese', 'unitManganese', 'naManganese', 'textManganese', 'manganeseContent', '',         false,            'roundManganese',   '',                   labelClassManganese, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showMolybdenum) {
+					let labelClassMolybdenum = 'nf-highlight';
+					if (!$this.settings.boldMolybdenum) {
+						labelClassMolybdenum = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueMolybdenum', 'unitMolybdenum', 'naMolybdenum', 'textMolybdenum', 'molybdenumContent', '',         false,            'roundMolybdenum',   '',                   labelClassMolybdenum, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showNiacin) {
+					let labelClassNiacin = 'nf-highlight';
+					if (!$this.settings.boldNiacin) {
+						labelClassNiacin = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueNiacin', 'unitNiacin', 'naNiacin', 'textNiacin', 'niacinContent', '',         false,            'roundNiacin',   '',                   labelClassNiacin, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showPantothenicAcid) {
+					let labelClassPantothenicAcid = 'nf-highlight';
+					if (!$this.settings.boldPantothenicAcid) {
+						labelClassPantothenicAcid = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valuePantothenicAcid', 'unitPantothenicAcid', 'naPantothenicAcid', 'textPantothenicAcid', 'pantothenicAcidContent', '',         false,            'roundPantothenicAcid',   '',                   labelClassPantothenicAcid, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showPhosphorus) {
+					let labelClassPhosphorus = 'nf-highlight';
+					if (!$this.settings.boldPhosphorus) {
+						labelClassPhosphorus = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valuePhosphorus', 'unitPhosphorus', 'naPhosphorus', 'textPhosphorus', 'phosphorusContent', '',         false,            'roundPhosphorus',   '',                   labelClassPhosphorus, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showRiboflavin) {
+					let labelClassRiboflavin = 'nf-highlight';
+					if (!$this.settings.boldRiboflavin) {
+						labelClassRiboflavin = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueRiboflavin', 'unitRiboflavin', 'naRiboflavin', 'textRiboflavin', 'riboflavinContent', '',         false,            'roundRiboflavin',   '',                   labelClassRiboflavin, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showSelenium) {
+					let labelClassSelenium = 'nf-highlight';
+					if (!$this.settings.boldSelenium) {
+						labelClassSelenium = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueSelenium', 'unitSelenium', 'naSelenium', 'textSelenium', 'seleniumContent', '',         false,            'roundSelenium',   '',                   labelClassSelenium, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showThiamin) {
+					let labelClassThiamin = 'nf-highlight';
+					if (!$this.settings.boldThiamin) {
+						labelClassThiamin = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueThiamin', 'unitThiamin', 'naThiamin', 'textThiamin', 'thiaminContent', '',         false,            'roundThiamin',   '',                   labelClassThiamin, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showVitaminB12) {
+					let labelClassVitaminB12 = 'nf-highlight';
+					if (!$this.settings.boldVitaminB12) {
+						labelClassVitaminB12 = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueVitaminB12', 'unitVitaminB12', 'naVitaminB12', 'textVitaminB12', 'vitaminB12Content', '',         false,            'roundVitaminB12',   '',                   labelClassVitaminB12, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showVitaminB6) {
+					let labelClassVitaminB6 = 'nf-highlight';
+					if (!$this.settings.boldVitaminB6) {
+						labelClassVitaminB6 = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueVitaminB6', 'unitVitaminB6', 'naVitaminB6', 'textVitaminB6', 'vitaminB6Content', '',         false,            'roundVitaminB6',   '',                   labelClassVitaminB6, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showVitaminE) {
+					let labelClassVitaminE = 'nf-highlight';
+					if (!$this.settings.boldVitaminE) {
+						labelClassVitaminE = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueVitaminE', 'unitVitaminE', 'naVitaminE', 'textVitaminE', 'vitaminEContent', '',         false,            'roundVitaminE',   '',                   labelClassVitaminE, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showVitaminK) {
+					let labelClassVitaminK = 'nf-highlight';
+					if (!$this.settings.boldVitaminK) {
+						labelClassVitaminK = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueVitaminK', 'unitVitaminK', 'naVitaminK', 'textVitaminK', 'vitaminKContent', '',         false,            'roundVitaminK',   '',                   labelClassVitaminK, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showWater) {
+					let labelClassWater = 'nf-highlight';
+					if (!$this.settings.boldWater) {
+						labelClassWater = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueWater', 'unitWater', 'naWater', 'textWater', 'waterContent', '',         false,            'roundWater',   '',                   labelClassWater, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
+				if ($this.settings.showZinc) {
+					let labelClassZinc = 'nf-highlight';
+					if (!$this.settings.boldZinc) {
+						labelClassZinc = '';
+					}
+
+					nutritionLabel += generateAttributeHtml2018Version(
+						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
+						$this.settings, 'valueZinc', 'unitZinc', 'naZinc', 'textZinc', 'zincContent', '',         false,            'roundZinc',   '',                   labelClassZinc, '',        ''
+					);
+
+					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
+					nutritionLabel += globalTab1 + '<div class="nf-vitamins">\n';
+				}
 				nutritionLabel += globalTab1 + '<div class="' + ($this.settings.hidePercentDailyValues ? 'nf-footnoteHiddenDailyValues' : 'nf-footnote') + '">\n';
 					if (!$this.settings.hidePercentDailyValues) {
 						nutritionLabel += globalTab2 + '<span tabIndex="0">' + $this.settings.textPercentDaily2018VersionPart1;
