@@ -3079,7 +3079,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueChloride', 'unitChloride', 'naChloride', 'textChloride', 'chlorideContent', '',         false,            'roundChloride',   '',                   labelClassChloride, '',        ''
+						$this.settings, 'valueChloride', 'unitChloride', 'naChloride', 'textChloride', 'chlorideContent', '',         false,            'roundGeneric',   '',                   labelClassChloride, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3094,7 +3094,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueChromium', 'unitChromium', 'naChromium', 'textChromium', 'chromiumContent', '',         false,            'roundChromium',   '',                   labelClassChromium, '',        ''
+						$this.settings, 'valueChromium', 'unitChromium', 'naChromium', 'textChromium', 'chromiumContent', '',         false,            'roundGeneric',   '',                   labelClassChromium, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3109,7 +3109,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueCopper', 'unitCopper', 'naCopper', 'textCopper', 'copperContent', '',         false,            'roundCopper',   '',                   labelClassCopper, '',        ''
+						$this.settings, 'valueCopper', 'unitCopper', 'naCopper', 'textCopper', 'copperContent', '',         false,            'roundGeneric',   '',                   labelClassCopper, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3124,7 +3124,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueFolate', 'unitFolate', 'naFolate', 'textFolate', 'folateContent', '',         false,            'roundFolate',   '',                   labelClassFolate, '',        ''
+						$this.settings, 'valueFolate', 'unitFolate', 'naFolate', 'textFolate', 'folateContent', '',         false,            'roundGeneric',   '',                   labelClassFolate, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3139,7 +3139,7 @@
 					
                     nutritionLabel += generateAttributeHtml2018Version(
                         //$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-                        $this.settings, 'valueIodine', 'unitIodine', 'naIodine', 'textIodine', 'iodineContent', '',         false,            'roundIIodine', '',                    labelClassIodine, '',      ''
+                        $this.settings, 'valueIodine', 'unitIodine', 'naIodine', 'textIodine', 'iodineContent', '',         false,            'roundGeneric', '',                    labelClassIodine, '',      ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3155,7 +3155,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueMagnesium', 'unitMagnesium', 'naMagnesium', 'textMagnesium', 'magnesiumContent', '',         false,            'roundMagnesium',   '',                   labelClassMagnesium, '',        ''
+						$this.settings, 'valueMagnesium', 'unitMagnesium', 'naMagnesium', 'textMagnesium', 'magnesiumContent', '',         false,            'roundGeneric',   '',                   labelClassMagnesium, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3169,7 +3169,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueManganese', 'unitManganese', 'naManganese', 'textManganese', 'manganeseContent', '',         false,            'roundManganese',   '',                   labelClassManganese, '',        ''
+						$this.settings, 'valueManganese', 'unitManganese', 'naManganese', 'textManganese', 'manganeseContent', '',         false,            'roundGeneric',   '',                   labelClassManganese, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3183,7 +3183,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueMolybdenum', 'unitMolybdenum', 'naMolybdenum', 'textMolybdenum', 'molybdenumContent', '',         false,            'roundMolybdenum',   '',                   labelClassMolybdenum, '',        ''
+						$this.settings, 'valueMolybdenum', 'unitMolybdenum', 'naMolybdenum', 'textMolybdenum', 'molybdenumContent', '',         false,            'roundGeneric',   '',                   labelClassMolybdenum, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3197,7 +3197,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueNiacin', 'unitNiacin', 'naNiacin', 'textNiacin', 'niacinContent', '',         false,            'roundNiacin',   '',                   labelClassNiacin, '',        ''
+						$this.settings, 'valueNiacin', 'unitNiacin', 'naNiacin', 'textNiacin', 'niacinContent', '',         false,            'roundGeneric',   '',                   labelClassNiacin, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3211,7 +3211,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valuePantothenicAcid', 'unitPantothenicAcid', 'naPantothenicAcid', 'textPantothenicAcid', 'pantothenicAcidContent', '',         false,            'roundPantothenicAcid',   '',                   labelClassPantothenicAcid, '',        ''
+						$this.settings, 'valuePantothenicAcid', 'unitPantothenicAcid', 'naPantothenicAcid', 'textPantothenicAcid', 'pantothenicAcidContent', '',         false,            'roundGeneric',   '',                   labelClassPantothenicAcid, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3225,7 +3225,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valuePhosphorus', 'unitPhosphorus', 'naPhosphorus', 'textPhosphorus', 'phosphorusContent', '',         false,            'roundPhosphorus',   '',                   labelClassPhosphorus, '',        ''
+						$this.settings, 'valuePhosphorus', 'unitPhosphorus', 'naPhosphorus', 'textPhosphorus', 'phosphorusContent', '',         false,            'roundGeneric',   '',                   labelClassPhosphorus, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3239,7 +3239,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueRiboflavin', 'unitRiboflavin', 'naRiboflavin', 'textRiboflavin', 'riboflavinContent', '',         false,            'roundRiboflavin',   '',                   labelClassRiboflavin, '',        ''
+						$this.settings, 'valueRiboflavin', 'unitRiboflavin', 'naRiboflavin', 'textRiboflavin', 'riboflavinContent', '',         false,            'roundGeneric',   '',                   labelClassRiboflavin, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3253,7 +3253,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueSelenium', 'unitSelenium', 'naSelenium', 'textSelenium', 'seleniumContent', '',         false,            'roundSelenium',   '',                   labelClassSelenium, '',        ''
+						$this.settings, 'valueSelenium', 'unitSelenium', 'naSelenium', 'textSelenium', 'seleniumContent', '',         false,            'roundGeneric',   '',                   labelClassSelenium, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3267,7 +3267,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueThiamin', 'unitThiamin', 'naThiamin', 'textThiamin', 'thiaminContent', '',         false,            'roundThiamin',   '',                   labelClassThiamin, '',        ''
+						$this.settings, 'valueThiamin', 'unitThiamin', 'naThiamin', 'textThiamin', 'thiaminContent', '',         false,            'roundGeneric',   '',                   labelClassThiamin, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3281,7 +3281,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueVitaminB12', 'unitVitaminB12', 'naVitaminB12', 'textVitaminB12', 'vitaminB12Content', '',         false,            'roundVitaminB12',   '',                   labelClassVitaminB12, '',        ''
+						$this.settings, 'valueVitaminB12', 'unitVitaminB12', 'naVitaminB12', 'textVitaminB12', 'vitaminB12Content', '',         false,            'roundGeneric',   '',                   labelClassVitaminB12, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3295,7 +3295,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueVitaminB6', 'unitVitaminB6', 'naVitaminB6', 'textVitaminB6', 'vitaminB6Content', '',         false,            'roundVitaminB6',   '',                   labelClassVitaminB6, '',        ''
+						$this.settings, 'valueVitaminB6', 'unitVitaminB6', 'naVitaminB6', 'textVitaminB6', 'vitaminB6Content', '',         false,            'roundGeneric',   '',                   labelClassVitaminB6, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3309,7 +3309,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueVitaminE', 'unitVitaminE', 'naVitaminE', 'textVitaminE', 'vitaminEContent', '',         false,            'roundVitaminE',   '',                   labelClassVitaminE, '',        ''
+						$this.settings, 'valueVitaminE', 'unitVitaminE', 'naVitaminE', 'textVitaminE', 'vitaminEContent', '',         false,            'roundGeneric',   '',                   labelClassVitaminE, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3323,7 +3323,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueVitaminK', 'unitVitaminK', 'naVitaminK', 'textVitaminK', 'vitaminKContent', '',         false,            'roundVitaminK',   '',                   labelClassVitaminK, '',        ''
+						$this.settings, 'valueVitaminK', 'unitVitaminK', 'naVitaminK', 'textVitaminK', 'vitaminKContent', '',         false,            'roundGeneric',   '',                   labelClassVitaminK, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3337,7 +3337,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueWater', 'unitWater', 'naWater', 'textWater', 'waterContent', '',         false,            'roundWater',   '',                   labelClassWater, '',        ''
+						$this.settings, 'valueWater', 'unitWater', 'naWater', 'textWater', 'waterContent', '',         false,            'roundGeneric',   '',                   labelClassWater, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
@@ -3351,7 +3351,7 @@
 
 					nutritionLabel += generateAttributeHtml2018Version(
 						//$localSettings valueIndex       unitIndex       naIndex       attributeText   itemPropValue     topDivClass showPercentageCode roundFunctionName roundFunctionRuleName labelClass          valueClass dailyValueIndex
-						$this.settings, 'valueZinc', 'unitZinc', 'naZinc', 'textZinc', 'zincContent', '',         false,            'roundZinc',   '',                   labelClassZinc, '',        ''
+						$this.settings, 'valueZinc', 'unitZinc', 'naZinc', 'textZinc', 'zincContent', '',         false,            'roundGeneric',   '',                   labelClassZinc, '',        ''
 					);
 
 					nutritionLabel += globalTab1 + '<div class="nf-bar1"></div>\n';
